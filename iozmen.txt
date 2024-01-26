@@ -1,0 +1,4 @@
+Username: iozmen
+Password: 1234
+Inventory:
+ID: 100, Name: Abc, Price: 1000, Quantity: 100, Category: Food

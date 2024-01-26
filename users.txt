@@ -1,0 +1,4 @@
+iozmen 1234 0
+nizam 1234 0
+ali 1234 0
+bayraker 1234 1
